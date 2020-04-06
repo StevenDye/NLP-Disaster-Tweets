@@ -10,7 +10,7 @@ Objective: Build a machine learning model that predicts which Tweets are about r
 Summary of files:
  - The_Notebook.ipynb: Jupyter Notebook documenting the code and the analysis for the project. Written for a technical audience
  - EDA.ipynb: Notebook dedicated to EDA
- - Dat_Cleaning: Notebook dedicated to data cleaning
+ - Dat_Cleaning.ipynb: Notebook dedicated to data cleaning
  - data file
      - train.csv
      - test.csv
